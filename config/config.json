@@ -1,0 +1,10 @@
+{
+
+    "//": "Set seed value",
+    "random_seed" : 42,
+
+    "path_models": "../app/models/",
+
+    "alpha": 190
+
+}
