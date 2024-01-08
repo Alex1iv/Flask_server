@@ -1,2 +1,3 @@
-# sf_data_sci
-sf homework
+# Flask server + Docker image
+Docker image
+ 
